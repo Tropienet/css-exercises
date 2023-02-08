@@ -1,0 +1,20 @@
+.klasa {
+    background-color: lightcoral;
+}
+
+.cooler {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#uniq {
+    color: blue;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+#uniq2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 3rem;
+}
